@@ -4,9 +4,9 @@
   "description": "",
   "main": "locolizard.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js --mode production"
   },
-  "author": "",
+  "author": "Torsten Zuther",
   "license": "",
   "devDependencies": {
     "@babel/core": "^7.8.7",
